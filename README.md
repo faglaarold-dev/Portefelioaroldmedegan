@@ -1,16 +1,14 @@
 
----
-
-## 🌍 Publication en ligne
+REDME?HTLM
 Le site est déployé via **GitHub Pages** et accessible à l’adresse suivante :
 
-🔗 https://TON_NOM_GITHUB.github.io/portfolio-arold-medegan
+🔗 https://AROLDMEDEGAN.github.io/portfolio-arold-medegan
 
-*(Remplacer TON_NOM_GITHUB par votre identifiant GitHub)*
+*
 
 ---
 
-## 🧪 Vérification du bon fonctionnement
+
 Le site a été testé sur navigateur web et respecte les critères suivants :
 - Chargement correct des pages
 - Styles CSS appliqués
@@ -19,7 +17,7 @@ Le site a été testé sur navigateur web et respecte les critères suivants :
 
 ---
 
-## 👤 Auteur
+
 **Arold Medegan**  
 Étudiant en développement web  
 Étudiant en droit / juriste  
