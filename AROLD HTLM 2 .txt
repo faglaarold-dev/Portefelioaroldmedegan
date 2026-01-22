@@ -1,0 +1,111 @@
+Note<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Page de synthèse HTML - notions de base">
+    <meta name="keywords" content="HTML, web, tableau, liste, image">
+    <meta name="author" content="Apprenant HTML">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page de Synthèse HTML</title>
+</head>
+
+<body>
+
+    <!-- En-tête principal -->
+    <h1>Page de Synthèse – HTML</h1>
+
+    <!-- Paragraphe -->
+    <p>
+        Cette page présente une synthèse des notions fondamentales du langage HTML,
+        incluant le texte, les images, les listes, les liens et les tableaux.
+    </p>
+
+    <!-- Liste non ordonnée -->
+    <h2>Notions abordées</h2>
+    <ul>
+        <li>Structure d’une page HTML</li>
+        <li>Listes HTML</li>
+        <li>Images et liens</li>
+        <li>Tableaux HTML</li>
+    </ul>
+
+    <!-- Image -->
+    <h2>Illustration</h2>
+    <img src="photo.jpg" alt="Illustration HTML" width="300">
+
+    <!-- Lien vers la deuxième page -->
+    <p>
+        <a href="page2.html">Accéder à la deuxième page</a>
+    </p>
+
+    <!-- Tableau -->
+    <h2>Tableau récapitulatif</h2>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th scope="col">Colonne 1</th>
+                <th scope="col">Colonne 2</th>
+                <th scope="col">Colonne 3</th>
+                <th scope="col">Colonne 4</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Ligne 1</td>
+                <td>Donnée</td>
+                <td>Donnée</td>
+                <td>Donnée</td>
+            </tr>
+
+            <!-- Fusion colonnes 2 et 3 de la ligne 2 -->
+            <tr>
+                <td>Ligne 2</td>
+                <td colspan="2">Fusion colonnes 2 et 3</td>
+                <td>Donnée</td>
+            </tr>
+
+            <tr>
+                <td>Ligne 3</td>
+                <td>Donnée</td>
+                <td>Donnée</td>
+                <td>Donnée</td>
+            </tr>
+
+            <!-- Fusion lignes 4 et 5 de la colonne 1 -->
+            <tr>
+                <td rowspan="2">Fusion lignes 4 et 5</td>
+                <td>Donnée</td>
+                <td>Donnée</td>
+                <td>Donnée</td>
+            </tr>
+
+            <tr>
+                <td>Donnée</td>
+                <td>Donnée</td>
+                <td>Donnée</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Deuxième page</title>
+</head>
+<body>
+
+    <h1>Deuxième page</h1>
+
+    <p>
+        Cette page contient la même image que la page de synthèse.
+    </p>
+
+    <img src="photo.jpg" alt="Illustration HTML" width="300">
+
+</body>
+</html>
