@@ -1,25 +1,38 @@
 # Portfolio personnel – Arold Medegan
 
-Ce site web a été réalisé dans le cadre d’un projet académique.
-Il présente mes compétences de base en développement web
-et respecte les bonnes pratiques HTML, CSS et JavaScript.
+---
 
-## Technologies utilisées
-- HTML5 : structure des pages
-- CSS3 : mise en page, responsive design et animations
-- JavaScript : interactions et validation
+## 🌍 Publication en ligne
+Le site est déployé via **GitHub Pages** et accessible à l’adresse suivante :
 
-## Fonctionnalités
-- Navigation fluide
-- Design responsive
-- Animations légères
-- Validation JavaScript du formulaire
-- Site publié en ligne via GitHub Pages
-
-## Accès au site
 🔗 https://TON_NOM_GITHUB.github.io/portfolio-arold-medegan
 
-## Auteur
+*(Remplacer TON_NOM_GITHUB par votre identifiant GitHub)*
+
+---
+
+## 🧪 Vérification du bon fonctionnement
+Le site a été testé sur navigateur web et respecte les critères suivants :
+- Chargement correct des pages
+- Styles CSS appliqués
+- Scripts JavaScript fonctionnels
+- Aucune erreur bloquante dans la console
+
+---
+
+## 👤 Auteur
 **Arold Medegan**  
-Étudiant en développement web, droit et cybersécurité  
-📧 faglaarold@gmail.com
+Étudiant en développement web  
+Étudiant en droit / juriste  
+Apprenant en cybersécurité  
+
+📧 Email : faglaarold@gmail.com  
+🎯 Centres d’intérêt : technologie, cybersécurité, sport, musique
+
+---
+
+## 📌 Remarque académique
+Ce projet respecte les consignes pédagogiques fournies, la maquette imposée
+et les critères d’évaluation relatifs à la structure, au design, à la fonctionnalité
+et à la documentation.
+
